@@ -1,0 +1,20 @@
+td{
+    height: 90px;
+    width: 90px;
+    background-color: gray;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.first td:hover{
+    cursor: pointer;
+    opacity: 50%;
+}
+
+.b{
+    color: rgb(65, 105, 225);
+}
+
+.r{
+    color: rgb(255, 99, 71);
+}
